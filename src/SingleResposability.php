@@ -4,10 +4,7 @@
  * Essa classe não tem solid pois esta implementando
  * uma função que não faz parte de usuario
  * como por exemplo enviar email
- * 
 */ 
-
-
 class UserNotSingleResposability
 {
     private $id;
